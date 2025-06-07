@@ -43,7 +43,7 @@ Then just follow the instructions and press `0` to begin.
 
 ---
 
-IMPORTANT
+#IMPORTANT
 
 The instructions on screen are in Greek(but with Latin Characters). So follow the instructions you find here!
 
